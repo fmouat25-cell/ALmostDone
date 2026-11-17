@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NEA Music Managment and reccomendation/1.0.0": {
+        "runtime": {
+          "NEA Music Managment and reccomendation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NEA Music Managment and reccomendation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
